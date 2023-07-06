@@ -1,5 +1,3 @@
 # pycoderpricetrend
 
-commit 1
-
-error
+commit 4
